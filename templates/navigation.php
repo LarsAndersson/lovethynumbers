@@ -32,14 +32,31 @@
 					<span class="title"><?php echo $_['global_my_profile']; ?></span>
 					</a>
 				</li>
+
+				<!-- Feeds menu -->
+				<li class="tooltips <?php echo (strpos($_SERVER['REQUEST_URI'],'feeds'))? 'active' : ''; ?>" data-placement="right" data-original-title="<?php echo $_['global_feeds_help']; ?>">
+					<a href="feeds">
+					<i class="icon-film"></i> 
+					<span class="title"><?php echo $_['global_feeds']; ?></span>
+					</a>
+				</li>
+				
+				<!-- Widgets -->
+				<li class="tooltips <?php echo (strpos($_SERVER['REQUEST_URI'],'widgets'))? 'active' : ''; ?>" data-placement="right" data-original-title="<?php echo $_['global_widget_help']; ?>">
+					<a href="widgets">
+					<i class="icon-film"></i> 
+					<span class="title"><?php echo $_['global_widgets']; ?></span>
+					</a>
+				</li>
+				
 				
 				<!-- Content menu -->
-				<li class="tooltips <?php echo (strpos($_SERVER['REQUEST_URI'],'content'))? 'active' : ''; ?>" data-placement="right" data-original-title="<?php echo $_['global_content_help']; ?>">
+				<!-- <li class="tooltips <?php echo (strpos($_SERVER['REQUEST_URI'],'content'))? 'active' : ''; ?>" data-placement="right" data-original-title="<?php echo $_['global_content_help']; ?>">
 					<a href="contents">
 					<i class="icon-film"></i> 
 					<span class="title"><?php echo $_['global_content']; ?></span>
 					</a>
-				</li>
+				</li> -->
 				
 				<!-- Screens menu -->
 				<li class="tooltips <?php echo (strpos($_SERVER['REQUEST_URI'],'screens'))? 'active' : ''; ?>" data-placement="right" data-original-title="<?php echo $_['global_content_help']; ?>">

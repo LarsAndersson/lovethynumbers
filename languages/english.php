@@ -1,7 +1,7 @@
 <?php
 
 //global texts
-$_['global_company_name'] = 'Screen Viewer';
+$_['global_company_name'] = 'Company Statistics';
 $_['global_control_panel'] = 'Control Panel';
 $_['global_my_profile'] = 'My profile';
 $_['global_my_profile_help'] = 'Edito your profile here';
@@ -10,10 +10,15 @@ $_['global_dashboard'] = 'Home';
 $_['global_home'] = 'Home';
 $_['global_admin'] = 'Admin';
 $_['global_content'] = 'Content';
+$_['global_widgets'] = 'Widgets';
+$_['global_type'] = 'Type';
+$_['global_feeds'] = 'Feeds';
 $_['global_screens'] = 'Screens';
 $_['global_videos'] = 'Videos';
 $_['global_videos_help'] = 'You will find your videos here';
 $_['global_content_help'] = 'You will find your content here';
+$_['global_feeds_help'] = 'Upload your data feeds here.';
+$_['global_widget_help'] = 'Configure how to display your data here.';
 $_['global_config'] = 'Configuration';
 $_['global_users'] = 'User';
 $_['global_save'] = 'Save';
@@ -26,6 +31,7 @@ $_['global_name'] = 'Name';
 $_['global_user'] = 'User';
 $_['global_last_name'] = 'Family name';
 $_['global_user_level'] = 'User level';
+$_['global_select_none'] = '-- None --';
 $_['email'] = 'E-mail';
 $_['password'] = 'Password';
 
@@ -172,5 +178,76 @@ $_['screens_length'] = 'Length';
 $_['screens_my_screens'] = 'My screens';
 $_['screens_list_screens'] = 'Screen lists';
 $_['screens_add_new'] = 'Add a new screen';
+
+
+//feeds text
+$_['feeds_feeds'] = 'Feeds';
+$_['feeds_title'] = 'Name';
+$_['feeds_image'] = 'Image';
+$_['feeds_reference'] = 'Reference #';
+$_['feeds_length'] = 'Length';
+$_['feeds_my_screens'] = 'My feed';
+$_['feeds_list_screens'] = 'Feeds list';
+$_['feeds_add_new'] = 'Add a new feed';
+
+//feed texts
+$_['feed_feed'] = 'Feed';
+$_['feed_feeds'] = 'Feeds';
+$_['feed_content'] = 'Content';
+$_['feed_user'] = 'User';
+$_['feed_type'] = 'Type - CSV';
+$_['feed_title'] = 'Name';
+$_['feed_title_description'] = 'A reference name so that you know which feed this is';
+$_['feed_image'] = 'Image';
+$_['feed_file'] = 'Feed File';
+$_['feed_length'] = 'Length';
+$_['feed_share'] = 'Share';
+$_['feed_embed'] = 'Embed';
+$_['feed_feed_added'] = 'Feed added';
+$_['feed_feed_updated'] = 'Feed updated';
+$_['feed_add_new_feed'] = 'Add a new Feed';
+$_['feed_deleted'] = 'The feed has been removed';
+$_['feed_max_file_size'] = 'Max size';
+$_['feed_view'] = 'View';
+$_['feed_required_fields'] = 'Required fields: ';
+
+$_['feed_type_order'] = 'Order';
+$_['feed_type_product'] = 'Product';
+
+//widgets text
+$_['widgets_widgets'] = 'Widgets';
+$_['widgets_title'] = 'Name';
+$_['widgets_image'] = 'Image';
+$_['widgets_reference'] = 'Reference #';
+$_['widgets_length'] = 'Length';
+$_['widgets_my_widgets'] = 'My widgets';
+$_['widgets_list_widgets'] = 'Widgets list';
+$_['widgets_add_new'] = 'Add a new widget';
+
+
+//widget texts
+$_['widget_widget'] = 'Widget';
+$_['widget_widgets'] = 'Widgets';
+$_['widget_content'] = 'Content';
+$_['widget_user'] = 'User';
+$_['widget_type'] = 'Type';
+$_['widget_title'] = 'Name';
+$_['widget_title_description'] = 'A reference name so that you know which widget this is';
+$_['widget_image'] = 'Image';
+$_['widget_file'] = 'Feed File';
+$_['widget_length'] = 'Length';
+$_['widget_share'] = 'Share';
+$_['widget_embed'] = 'Embed';
+$_['widget_widget_added'] = 'Widget added';
+$_['widget_widget_updated'] = 'Widget updated';
+$_['widget_add_new_widget'] = 'Add a new widget';
+$_['widget_deleted'] = 'The widget has been removed';
+$_['widget_max_file_size'] = 'Max size';
+$_['widget_view'] = 'View';
+$_['widget_valid_fields'] = 'Valid feeds: ';
+$_['widget_feed_to_use'] = 'Feed to use';
+
+$_['widget_type_bar_graph'] = 'Bar Graph';
+$_['widget_type_sales_graph'] = 'Sales Graph';
 
 ?>

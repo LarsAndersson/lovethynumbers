@@ -14,7 +14,7 @@
 ?>
 
 <!-- BEGIN BODY -->
-<body class="page-header-fixed">
+<body class="page-header-fixed"> 
 	<?php
 		include 'templates/header.php';
 	?>

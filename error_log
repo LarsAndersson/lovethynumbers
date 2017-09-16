@@ -1,0 +1,810 @@
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined index: global_feeds in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 40
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:37 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined index: global_feeds in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 40
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:54:44 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:55:00 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:55:00 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:55:00 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 14:55:00 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:55:00 UTC] PHP Notice:  Undefined variable: global_user_video_folder in /home/arcent/public_html/dev/lovethynumbers/classes/class.application.php on line 22
+[16-Sep-2017 14:55:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:56:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:56:13 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:56:28 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:57:14 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:57:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:57:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:58:26 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:58:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 14:59:24 UTC] PHP Notice:  Undefined index: epost in /home/arcent/public_html/dev/lovethynumbers/login.php on line 85
+[16-Sep-2017 14:59:26 UTC] PHP Notice:  Undefined index: epost in /home/arcent/public_html/dev/lovethynumbers/login.php on line 85
+[16-Sep-2017 14:59:26 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 14:59:28 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 14:59:31 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 15:00:26 UTC] PHP Fatal error:  Cannot redeclare class Content in /home/arcent/public_html/dev/lovethynumbers/classes/class.feeds.php on line 224
+[16-Sep-2017 15:00:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/arcent/public_html/dev/lovethynumbers/classes/class.user.php on line 16
+[16-Sep-2017 15:00:37 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 15:07:47 UTC] PHP Notice:  Undefined index: global_feeds_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 37
+[16-Sep-2017 15:11:48 UTC] PHP Fatal error:  Class 'Feed' not found in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 5
+[16-Sep-2017 15:12:32 UTC] PHP Notice:  Undefined variable: screen_helper in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 107
+[16-Sep-2017 15:12:32 UTC] PHP Fatal error:  Call to a member function getScreens() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 107
+[16-Sep-2017 15:13:32 UTC] PHP Fatal error:  Call to undefined method Feed::getFeeds() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 107
+[16-Sep-2017 15:15:14 UTC] PHP Fatal error:  Call to a member function getViewerPath() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 15:18:03 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 70
+[16-Sep-2017 15:18:03 UTC] PHP Notice:  Undefined index: feed_screens in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 78
+[16-Sep-2017 15:18:03 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 94
+[16-Sep-2017 15:18:03 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:18:03 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:29:37 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 70
+[16-Sep-2017 15:29:37 UTC] PHP Notice:  Undefined index: feed_screens in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 78
+[16-Sep-2017 15:29:37 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 94
+[16-Sep-2017 15:29:37 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:29:37 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:29:54 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 70
+[16-Sep-2017 15:29:54 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 94
+[16-Sep-2017 15:29:54 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:29:54 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:02 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 70
+[16-Sep-2017 15:30:02 UTC] PHP Notice:  Undefined index: feed_screen in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 94
+[16-Sep-2017 15:30:02 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:02 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:11 UTC] PHP Notice:  Undefined index: feed_add_new_feed in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 70
+[16-Sep-2017 15:30:11 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:11 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:25 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:30:25 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:13 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:13 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:29 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:29 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:31 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:31 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:36 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:33:36 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:34:53 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:34:53 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 140
+[16-Sep-2017 15:42:01 UTC] PHP Fatal error:  Call to a member function getFeedTypes() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 126
+[16-Sep-2017 15:42:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.feed_types' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:149
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(149): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/feed.php(126): Feed->getFeedTypes()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 149
+[16-Sep-2017 15:42:35 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 143
+[16-Sep-2017 15:42:35 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 143
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 129
+[16-Sep-2017 15:47:01 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 146
+[16-Sep-2017 15:47:01 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 146
+[16-Sep-2017 15:47:52 UTC] PHP Notice:  Undefined variable: content_helper in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 146
+[16-Sep-2017 15:47:52 UTC] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 146
+[16-Sep-2017 17:46:43 UTC] PHP Notice:  Undefined index: epost in /home/arcent/public_html/dev/lovethynumbers/login.php on line 85
+[16-Sep-2017 17:46:45 UTC] PHP Notice:  Undefined index: epost in /home/arcent/public_html/dev/lovethynumbers/login.php on line 85
+[16-Sep-2017 17:47:37 UTC] PHP Notice:  Undefined index: feed_type in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 126
+[16-Sep-2017 18:06:03 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 143
+[16-Sep-2017 18:06:15 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 143
+[16-Sep-2017 18:06:28 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 143
+[16-Sep-2017 18:18:37 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 145
+[16-Sep-2017 18:21:04 UTC] PHP Notice:  Undefined index: uploadedfile in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 147
+[16-Sep-2017 18:21:04 UTC] PHP Notice:  Undefined index: uploadedfile in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 148
+[16-Sep-2017 18:28:09 UTC] PHP Warning:  file(&quot;total_sum&quot;,&quot;time&quot;,&quot;article_ids&quot;,&quot;shipping&quot;,&quot;customer_id&quot;
+&quot;100&quot;,&quot;2017-09-15 12:03:29&quot;,&quot;123,234&quot;,&quot;&quot;,&quot;&quot;
+&quot;200&quot;,&quot;2017-09-15 12:04:29&quot;,&quot;123&quot;,&quot;50&quot;,&quot;2&quot;): failed to open stream: No such file or directory in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 149
+[16-Sep-2017 18:28:09 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 149
+[16-Sep-2017 18:28:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 149
+[16-Sep-2017 18:34:27 UTC] PHP Warning:  Missing argument 2 for Feed::uploadFile(), called in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 38 and defined in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 145
+[16-Sep-2017 18:34:27 UTC] PHP Notice:  Undefined variable: global_user in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 152
+[16-Sep-2017 18:41:53 UTC] PHP Warning:  Missing argument 2 for Feed::createEmptyTable(), called in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 158 and defined in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 167
+[16-Sep-2017 18:41:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:168
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(168): PDO->query('DROP TABLE IF E...')
+#1 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(158): Feed->createEmptyTable(Array)
+#2 /home/arcent/public_html/dev/lovethynumbers/feed.php(40): Feed->uploadFile(Array, Array)
+#3 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 168
+[16-Sep-2017 18:42:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:168
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(168): PDO->query('DROP TABLE IF E...')
+#1 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(158): Feed->createEmptyTable(Array)
+#2 /home/arcent/public_html/dev/lovethynumbers/feed.php(40): Feed->uploadFile(Array, Array)
+#3 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 168
+[16-Sep-2017 18:45:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1072 Key column 'converter_id' doesn't exist in table' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:174
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(174): PDO->query('CREATE TABLE 1_...')
+#1 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(158): Feed->createEmptyTable(Array)
+#2 /home/arcent/public_html/dev/lovethynumbers/feed.php(41): Feed->uploadFile(Array, Array)
+#3 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 174
+[16-Sep-2017 18:46:06 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 178
+[16-Sep-2017 18:46:06 UTC] PHP Fatal error:  Call to undefined method PDO::escape() in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 181
+[16-Sep-2017 18:46:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 178
+[16-Sep-2017 18:46:30 UTC] PHP Fatal error:  Call to undefined method PDO::escape() in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 181
+[16-Sep-2017 18:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '100'',`time`=''2017-09-15 12:03:29'',`article_ids`=''123,234'',`shipping`='''',`' at line 1' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:184
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(184): PDO->query('INSERT INTO 1_1...')
+#1 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(160): Feed->insertData(Array, Array)
+#2 /home/arcent/public_html/dev/lovethynumbers/feed.php(41): Feed->uploadFile(Array, Array)
+#3 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 184
+[16-Sep-2017 18:47:40 UTC] PHP Fatal error:  Call to undefined method PDO::escape() in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 181
+[16-Sep-2017 18:47:50 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 42
+[16-Sep-2017 18:47:50 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:47:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.feeds' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:19
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(19): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/feed.php(13): Feed->__construct('13')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 19
+[16-Sep-2017 18:48:37 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 19
+[16-Sep-2017 18:48:37 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:48:37 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:48:37 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:48:42 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 42
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 19
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:49:06 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:50:20 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 19
+[16-Sep-2017 18:50:20 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:50:20 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 18:50:20 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 18:50:22 UTC] PHP Fatal error:  Call to undefined method Feed::getThisContent() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 117
+[16-Sep-2017 18:54:22 UTC] PHP Fatal error:  Call to undefined method Feed::getThisContent() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 117
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:02 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_reference_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 119
+[16-Sep-2017 18:55:45 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 126
+[16-Sep-2017 18:56:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:56:07 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 18:57:56 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 115
+[16-Sep-2017 18:58:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:219
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(219): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/feeds.php(115): Feed->getFeedType('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 219
+[16-Sep-2017 18:59:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:219
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(219): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/feeds.php(115): Feed->getFeedType('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 219
+[16-Sep-2017 19:00:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:221
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(221): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/feeds.php(115): Feed->getFeedType('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 221
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:00:46 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined variable: feed_type in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:00 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Array to string conversion in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:01:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:08 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:25 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined index: type_label in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 19:02:50 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:02:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:12 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:18 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:03:19 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:06 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:04:48 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:40 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:05:53 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:06:04 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:07:41 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:39 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:53 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:08:53 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:08:53 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:58 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:08:59 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:08:59 UTC] PHP Notice:  Trying to get property of non-object in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:08:59 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:10:25 UTC] PHP Notice:  Undefined index: type_id in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:10:25 UTC] PHP Notice:  Undefined index: type_id in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 135
+[16-Sep-2017 19:10:25 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:10:47 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:28 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:36 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:13:57 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:14:09 UTC] PHP Notice:  Undefined property: Feed::$screen_id in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 124
+[16-Sep-2017 19:15:45 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:15:59 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 42
+[16-Sep-2017 19:15:59 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:15:59 UTC] PHP Notice:  Undefined index: feed_feed_added in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 19
+[16-Sep-2017 19:15:59 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:19:28 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:20:28 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:20:34 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:26:05 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:26:19 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:26:19 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:28:33 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:29:53 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:37:04 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:37:31 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 147
+[16-Sep-2017 19:38:38 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 19:38:45 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 19:38:47 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 19:46:21 UTC] PHP Notice:  Undefined index: global_widget_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 45
+[16-Sep-2017 19:46:24 UTC] PHP Notice:  Undefined index: global_widget_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 45
+[16-Sep-2017 19:47:08 UTC] PHP Notice:  Undefined index: global_widget_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 45
+[16-Sep-2017 19:47:09 UTC] PHP Notice:  Undefined index: global_widget_help in /home/arcent/public_html/dev/lovethynumbers/templates/navigation.php on line 45
+[16-Sep-2017 19:51:09 UTC] PHP Notice:  Undefined index: widgets_widgets in /home/arcent/public_html/dev/lovethynumbers/widgets.php on line 51
+[16-Sep-2017 19:51:09 UTC] PHP Notice:  Undefined index: widgets_widgets in /home/arcent/public_html/dev/lovethynumbers/widgets.php on line 60
+[16-Sep-2017 19:51:09 UTC] PHP Notice:  Undefined index: widgets_widgets in /home/arcent/public_html/dev/lovethynumbers/widgets.php on line 73
+[16-Sep-2017 19:51:09 UTC] PHP Notice:  Undefined index: widgets_add_new in /home/arcent/public_html/dev/lovethynumbers/widgets.php on line 81
+[16-Sep-2017 19:51:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.widget' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:148
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(148): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/widgets.php(106): Widget->getWidgets()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 148
+[16-Sep-2017 19:55:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.widget' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:148
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(148): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/widgets.php(106): Widget->getWidgets()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 148
+[16-Sep-2017 19:57:06 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 19:58:54 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 19:59:43 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedTypes() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 135
+[16-Sep-2017 20:02:24 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedTypes() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 135
+[16-Sep-2017 20:02:47 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedTypes() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 135
+[16-Sep-2017 20:03:00 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedTypes() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 135
+[16-Sep-2017 20:03:06 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedTypes() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 135
+[16-Sep-2017 20:03:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.widget_types' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:154
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(154): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(135): Widget->getWidgetTypes()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 154
+[16-Sep-2017 20:04:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.widget_types' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:154
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(154): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(135): Widget->getWidgetTypes()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 154
+[16-Sep-2017 20:05:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.widget_types' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:154
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(154): PDO->query('SELECT * FROM `...')
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(135): Widget->getWidgetTypes()
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 154
+[16-Sep-2017 20:06:06 UTC] PHP Notice:  Undefined index: widget_type_order in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 140
+[16-Sep-2017 20:06:06 UTC] PHP Notice:  Undefined index: widget_type_product in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 140
+[16-Sep-2017 20:06:06 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 149
+[16-Sep-2017 20:06:06 UTC] PHP Notice:  Undefined index: widget_valid_fields in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 184
+[16-Sep-2017 20:06:17 UTC] PHP Notice:  Undefined index: widget_type_order in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 140
+[16-Sep-2017 20:06:17 UTC] PHP Notice:  Undefined index: widget_type_product in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 140
+[16-Sep-2017 20:06:17 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 149
+[16-Sep-2017 20:06:17 UTC] PHP Notice:  Undefined index: widget_valid_fields in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 184
+[16-Sep-2017 20:08:00 UTC] PHP Notice:  Undefined index: widget_valid_fields in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 181
+[16-Sep-2017 20:09:47 UTC] PHP Notice:  Undefined index: widget_valid_fields in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 181
+[16-Sep-2017 20:18:19 UTC] PHP Fatal error:  Call to undefined function Feed() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 151
+[16-Sep-2017 20:18:55 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:21:11 UTC] PHP Fatal error:  Call to undefined method Widget::getFeedsForUser() in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 150
+[16-Sep-2017 20:21:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:169
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(169): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(150): Widget->getFeedsByUser('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 169
+[16-Sep-2017 20:21:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:169
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(169): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(151): Widget->getFeedsByUser('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 169
+[16-Sep-2017 20:22:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arcent_lovethynumbers.feeds' doesn't exist' in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php:169
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php(169): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/widget.php(150): Widget->getFeedsByUser('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.widget.php on line 169
+[16-Sep-2017 20:22:33 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 151
+[16-Sep-2017 20:22:33 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:22:58 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 152
+[16-Sep-2017 20:22:58 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:23:22 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 152
+[16-Sep-2017 20:23:22 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:24:16 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:24:39 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:25:12 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 152
+[16-Sep-2017 20:25:12 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:25:41 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 152
+[16-Sep-2017 20:25:41 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:27:11 UTC] PHP Warning:  Illegal string offset 'feed_id' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 152
+[16-Sep-2017 20:27:11 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:27:35 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 220
+[16-Sep-2017 20:27:35 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 20:27:35 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 220
+[16-Sep-2017 20:27:35 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 116
+[16-Sep-2017 20:27:46 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149
+[16-Sep-2017 20:28:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php:227
+Stack trace:
+#0 /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php(227): PDOStatement->execute(Array)
+#1 /home/arcent/public_html/dev/lovethynumbers/feeds.php(110): Feed->getFeedsByUser('1')
+#2 {main}
+  thrown in /home/arcent/public_html/dev/lovethynumbers/classes/class.feed.php on line 227
+[16-Sep-2017 20:28:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 112
+[16-Sep-2017 20:29:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 112
+[16-Sep-2017 20:29:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 112
+[16-Sep-2017 20:29:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/arcent/public_html/dev/lovethynumbers/feeds.php on line 112
+[16-Sep-2017 20:29:43 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:30:36 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:30:52 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:31:15 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:31:26 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:31:42 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:32:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 156
+[16-Sep-2017 20:32:30 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:32:44 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:33:23 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:33:31 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:33:37 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:33:53 UTC] PHP Fatal error:  Cannot use object of type Feed as array in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 155
+[16-Sep-2017 20:35:16 UTC] PHP Notice:  Undefined index: feed_type_ in /home/arcent/public_html/dev/lovethynumbers/widget.php on line 157
+[16-Sep-2017 20:35:16 UTC] PHP Notice:  Undefined index: feed_file_description in /home/arcent/public_html/dev/lovethynumbers/feed.php on line 149

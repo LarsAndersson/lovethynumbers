@@ -112,8 +112,6 @@
 								<li><a href="#tab_1_2" data-toggle="tab">Profile Info</a></li> -->
 								<li class="active"><a href="#tab_1_3" data-toggle="tab"><?php echo $_['profile_account']; ?></a></li>
 								<?php if($global_user->user_level < 5) { ?>
-									<li><a href="#tab_1_4" data-toggle="tab"><?php echo $_['profile_content']; ?></a></li>
-									<li><a href="#tab_1_5" data-toggle="tab"><?php echo $_['profile_screens']; ?></a></li>
 								<?php } ?>
 								<!-- <li><a href="#tab_1_6" data-toggle="tab">Help</a></li> -->
 							</ul>

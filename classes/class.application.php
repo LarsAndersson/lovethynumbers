@@ -19,7 +19,7 @@ class Application {
 	//gets the database defined in the global config file
 	public function getFilesDirectory() {
 		include(__DIR__."/../config.php");
-		return $global_user_video_folder;
+		return $this->files_directory;
 	}
 	
 	public static function deleteDir($dirPath) {
